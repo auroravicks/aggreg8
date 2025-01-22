@@ -1,0 +1,10 @@
+platform_id,platform_name,platform_type,fee_percentage,average_rating
+1,Swiggy,Delivery,18.18,4.6
+2,Zomato,Delivery,18.48,4.8
+3,Uber,Driver,11.49,4.5
+4,Ola,Driver,13.48,4.3
+5,Fiverr,Freelance,8.01,3.9
+6,InDrive,Driver,10.01,3.2
+7,Blinkit,Delivery,12.25,4.1
+8,Zepto,Delivery,7.85,3.2
+9,MagicPin,Delivery,11.29,4.2
